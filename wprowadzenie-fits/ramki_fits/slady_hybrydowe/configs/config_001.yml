@@ -1,0 +1,56 @@
+tracking:
+  x_border: 920
+  y_border: 920
+  pixel_interpolation: bilinear
+  stacking_strategy: fast_auto
+survey:
+  v_min: 109.999891335505
+  v_max: 109.999891335505
+  v_granulation: 1.0
+  ang_min: 168.809
+  ang_max: 168.809
+  ang_granulation: 1.0
+  pixel_interpolation: bilinear
+  stacking_strategy: fast_auto
+  save_all_transformed_images: false
+  FWHM: 1.47800771895272
+simulation:
+  streaks:
+  - file: c241015_211422_0000_00050_40534_WCS.fits
+    x: 2200
+    y: 907
+  - file: c241015_211422_0000_00051_40534_WCS.fits
+    x: 2092
+    y: 928
+  - file: c241015_211422_0000_00052_40534_WCS.fits
+    x: 1984
+    y: 950
+  - file: c241015_211422_0000_00053_40534_WCS.fits
+    x: 1876
+    y: 971
+  - file: c241015_211422_0000_00054_40534_WCS.fits
+    x: 1768
+    y: 992
+  - file: c241015_211422_0000_00055_40534_WCS.fits
+    x: 1660
+    y: 1014
+  - file: c241015_211422_0000_00056_40534_WCS.fits
+    x: 1553
+    y: 1035
+  - file: c241015_211422_0000_00057_40534_WCS.fits
+    x: 1445
+    y: 1056
+  - file: c241015_211422_0000_00058_40534_WCS.fits
+    x: 1337
+    y: 1078
+  - file: c241015_211422_0000_00059_40534_WCS.fits
+    x: 1229
+    y: 1099
+  - file: c241015_211422_0000_00060_40534_WCS.fits
+    x: 1121
+    y: 1120
+information:
+  velocity: 109.999891335505
+  angle: 168.809
+  exposure: 1.000002704225352
+  snr: 0.391

@@ -1,0 +1,63 @@
+tracking:
+  x_border: 920
+  y_border: 920
+  pixel_interpolation: bilinear
+  stacking_strategy: fast_auto
+survey:
+  v_min: 20.338
+  v_max: 20.338
+  v_granulation: 1.0
+  ang_min: 292.82
+  ang_max: 292.82
+  ang_granulation: 1.0
+  pixel_interpolation: bilinear
+  stacking_strategy: fast_auto
+  save_all_transformed_images: false
+  FWHM: 1.5029972408397583
+simulation:
+  streaks:
+  - file: frame_000.fits
+    x: 612
+    y: 1404
+  - file: frame_001.fits
+    x: 620
+    y: 1385
+  - file: frame_002.fits
+    x: 628
+    y: 1366
+  - file: frame_003.fits
+    x: 636
+    y: 1347
+  - file: frame_004.fits
+    x: 644
+    y: 1328
+  - file: frame_005.fits
+    x: 652
+    y: 1309
+  - file: frame_006.fits
+    x: 660
+    y: 1290
+  - file: frame_007.fits
+    x: 667
+    y: 1271
+  - file: frame_008.fits
+    x: 675
+    y: 1253
+  - file: frame_009.fits
+    x: 683
+    y: 1234
+  - file: frame_010.fits
+    x: 691
+    y: 1215
+  - file: frame_011.fits
+    x: 699
+    y: 1196
+  - file: frame_012.fits
+    x: 707
+    y: 1177
+information:
+  velocity: 20.338
+  angle: 292.82
+  exposure: 1.0
+  snr: 6.746000000000001
+  snr_aperture: 28.80699755279809

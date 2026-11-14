@@ -1,0 +1,31 @@
+simulation:
+  combine_trajectories: true
+  trajectories:
+    - velocity: 174.493512130221
+      angle: 59.682
+      snr: 0.187
+      exposure: 1.000002704225352
+    - velocity: 109.999891335505
+      angle: 168.809
+      snr: 0.391
+      exposure: 1.000002704225352
+    - velocity: 86.203286886886
+      angle: 36.425
+      snr: 0.592
+      exposure: 1.000002704225352
+    - velocity: 111.965581219837
+      angle: 7.491
+      snr: 0.84
+      exposure: 1.000002704225352
+    - velocity: 126.49374433241
+      angle: 105.138
+      snr: 0.955
+      exposure: 1.000002704225352
+    - velocity: 61.19991250164507
+      angle: 163.545
+      snr: 0.07
+      exposure: 1.000002704225352
+    - velocity: 106.52848712296442
+      angle: 125.947
+      snr: 0.12
+      exposure: 1.000002704225352

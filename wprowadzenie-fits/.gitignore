@@ -1,0 +1,5 @@
+# Ramki FITS są duże (~900 MB) i pochodzą z evaluation/dataset/ — nie commitujemy ich.
+ramki_fits/**/*.fits
+wyniki/
+.venv/
+.ipynb_checkpoints/
